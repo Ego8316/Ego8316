@@ -46,9 +46,11 @@ Feel free to explore my repositories and follow my progress!
 
 ### 🔹 **Other Tools**
 <p>
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
+
 
 ---
 
