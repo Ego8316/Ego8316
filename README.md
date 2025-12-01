@@ -1,44 +1,58 @@
 # 💫 About Me
 
-I’m a software engineering student at **42 Lausanne (Switzerland)**, seeking an **internship starting February–March 2026**.  
-My background bridges **physics**, **systems engineering**, and **low-level programming**, with a strong interest in:
+My name is Hugo, and I am a Software Engineering student at **42 Lausanne**.
 
-- ⚙️ Systems programming (C/C++)  
-- 🧠 AI & data processing  
-- 🔐 Cybersecurity  
-- 🛠️ DevOps & automation  
+I studied physics at Sorbonne Université and EPFL, specializing in condensed matter theory.  
+Curious to understand computers as deeply as I understood physics, I joined 42 Lausanne to explore software engineering from first principles.
 
-I previously worked as a **Teaching Assistant at EPFL**, supervising Bachelor-level math & physics courses, and as a **Research Assistant** in quantum magnetism (<1 K instrumentation).
+My interests include:
+- ⚙️ Systems programming (C/C++)
+- 🛠️ System administration
+- 🧠 AI & data tools
+- 🏗️ DevOps & automation
+
+This blend of physics rigor and hands-on engineering shapes how I think, learn, and create.
+
+Feel free to explore my repositories and follow my progress!
+
 
 ---
 
 # 🧰 Tech Stack
 
-### **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+### 🔹 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
 
-### **Systems / DevOps**
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+### 🔹 **Systems / DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
-### **Python Ecosystem**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+### 🔹 **Python Ecosystem**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-### **Other Tools**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+### 🔹 **Other Tools**
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</p>
 
 ---
 
-# My Journey at 42
+# 🚀 My Journey at 42
 
 <div align="center">
 
@@ -55,26 +69,8 @@ I previously worked as a **Teaching Assistant at EPFL**, supervising Bachelor-le
 <a href="https://github.com/Ego8316/cpp">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/cpp.png)</a>
 <a href="https://github.com/Ego8316/miniRT">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minirt.png)</a>
 
-<!-- 
-<a href="https://github.com/Ego8316/webserv">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/webserv.png)</a>
-<a href="https://github.com/Ego8316/inception">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/inception.png)</a>
-<a href="https://github.com/Ego8316/ft_transcendence">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/ft_transcendence.png)
-</a> -->
-
 </div>
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ego8316&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Ego8316&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ego8316&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ego8316&icon=0&color=0">
-  </a>
+  <em>Building strong fundamentals, one project at a time ⚙️</em>
 </p>
-
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
