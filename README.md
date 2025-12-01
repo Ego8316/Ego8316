@@ -74,3 +74,7 @@ Feel free to explore my repositories and follow my progress!
 <p align="center">
   <em>Building strong fundamentals, one project at a time ⚙️</em>
 </p>
+
+<p align="center">
+  <em>“What I cannot create, I do not understand.” — Richard Feynman</em>
+</p>
