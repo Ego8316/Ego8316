@@ -49,9 +49,9 @@ I previously worked as a **Teaching Assistant at EPFL**, supervising Bachelor-le
 <a href="https://github.com/Ego8316/fract-ol">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/fract-ol.png)</a>
 <a href="https://github.com/Ego8316/pipex">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/pipex.png)</a>
 <a href="https://github.com/Ego8316/push_swap">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/push_swap.png)</a>
-<a href="https://github.com/Ego8316/philosophers">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/philosophers.png)</a>
+<a href="https://github.com/Ego8316/Philosophers">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/philosophers.png)</a>
 <a href="https://github.com/Ego8316/minishell">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minishell.png)</a>
-<a href="https://github.com/Ego8316/net_practice">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/netpractice.png)</a>
+<a href="https://github.com/Ego8316/NetPractice">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/netpractice.png)</a>
 <a href="https://github.com/Ego8316/cpp">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/cpp.png)</a>
 <a href="https://github.com/Ego8316/miniRT">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minirt.png)</a>
 
