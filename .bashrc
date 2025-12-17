@@ -64,7 +64,6 @@ fi
 RED="\[\033[38;5;196m\]"
 BLACK="\[\033[38;5;16m\]"
 DARK_ORANGE="\[\033[38;5;130m\]"
-LIGHT_RED="\[\033[38;5;203m\]"
 RESET="\[\033[0m\]"
 
 git_info() {
@@ -91,9 +90,9 @@ last_exit() {
 
 PS1="${BLACK}┌─[${RED}\u${BLACK}@${RED}\h${BLACK}]\
 ─[${DARK_ORANGE}\w${BLACK}]\
-─[${LIGHT_RED}\$(date +\"%I:%M %P\")${BLACK}]\
+─[${RED}\$(date +\"%I:%M %P\")${BLACK}]\
 \$(git_info)${RESET}\
-\n${BLACK}└\$(last_exit)─[${LIGHT_RED}\$${BLACK}]› ${RESET}"
+\n${BLACK}└\$(last_exit)─[${RED}\$${BLACK}]› ${RESET}"
 
 # Custom aliases
 
