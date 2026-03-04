@@ -29,6 +29,14 @@ Feel free to explore my repositories and follow my progress!
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
+### 🔹 **Web / Frontend**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
 ### 🔹 **Systems / DevOps**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -47,6 +55,7 @@ Feel free to explore my repositories and follow my progress!
 ### 🔹 **Other Tools**
 <p>
   <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
@@ -70,6 +79,8 @@ Feel free to explore my repositories and follow my progress!
 <a href="https://github.com/Ego8316/NetPractice">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/netpractice.png)</a>
 <a href="https://github.com/Ego8316/cpp">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/cpp.png)</a>
 <a href="https://github.com/Ego8316/miniRT">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minirt.png)</a>
+<a href="https://github.com/Ego8316/Inception">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/inception.png)</a>
+<a href="https://github.com/Ego8316/webserv">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/webserv.png)</a>
 
 </div>
 
