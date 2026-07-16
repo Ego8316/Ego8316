@@ -82,6 +82,7 @@ Feel free to explore my repositories and follow my progress!
 <a href="https://github.com/Ego8316/miniRT">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minirt.png)</a>
 <a href="https://github.com/Ego8316/Inception">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/inception.png)</a>
 <a href="https://github.com/Ego8316/webserv">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/webserv.png)</a>
+<a href="https://github.com/Ego8316/ft_transcendence">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/ft_transcendence.png)</a>
 
 </div>
 
