@@ -78,21 +78,21 @@ Feel free to explore my repositories and follow my progress!
 
 <div align="center">
 
-<a href="https://github.com/Ego8316/libft">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/libft.png)</a>
-<a href="https://github.com/Ego8316/get_next_line">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/get_next_line.png)</a>
-<a href="https://github.com/Ego8316/ft_printf">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/ft_printf.png)</a>
-<a href="https://github.com/Ego8316/Born2beroot">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/born2beroot.png)</a>
-<a href="https://github.com/Ego8316/fract-ol">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/fract-ol.png)</a>
-<a href="https://github.com/Ego8316/pipex">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/pipex.png)</a>
-<a href="https://github.com/Ego8316/push_swap">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/push_swap.png)</a>
-<a href="https://github.com/Ego8316/Philosophers">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/philosophers.png)</a>
-<a href="https://github.com/Ego8316/minishell">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minishell.png)</a>
-<a href="https://github.com/Ego8316/NetPractice">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/netpractice.png)</a>
-<a href="https://github.com/Ego8316/cpp">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/cpp.png)</a>
-<a href="https://github.com/Ego8316/miniRT">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minirt.png)</a>
-<a href="https://github.com/Ego8316/Inception">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/inception.png)</a>
-<a href="https://github.com/Ego8316/webserv">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/webserv.png)</a>
 <a href="https://github.com/Ego8316/ft_transcendence">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/ft_transcendence.png)</a>
+<a href="https://github.com/Ego8316/webserv">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/webserv.png)</a>
+<a href="https://github.com/Ego8316/Inception">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/inception.png)</a>
+<a href="https://github.com/Ego8316/miniRT">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minirt.png)</a>
+<a href="https://github.com/Ego8316/cpp">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/cpp.png)</a>
+<a href="https://github.com/Ego8316/NetPractice">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/netpractice.png)</a>
+<a href="https://github.com/Ego8316/minishell">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/minishell.png)</a>
+<a href="https://github.com/Ego8316/Philosophers">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/philosophers.png)</a>
+<a href="https://github.com/Ego8316/push_swap">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/push_swap.png)</a>
+<a href="https://github.com/Ego8316/pipex">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/pipex.png)</a>
+<a href="https://github.com/Ego8316/fract-ol">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/fract-ol.png)</a>
+<a href="https://github.com/Ego8316/Born2beroot">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/born2beroot.png)</a>
+<a href="https://github.com/Ego8316/ft_printf">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/ft_printf.png)</a>
+<a href="https://github.com/Ego8316/get_next_line">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/get_next_line.png)</a>
+<a href="https://github.com/Ego8316/libft">![42 Badge](https://github.com/Ego8316/Ego8316/blob/main/42-badges/libft.png)</a>
 
 </div>
 
