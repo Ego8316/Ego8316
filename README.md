@@ -1,9 +1,8 @@
 # 💫 About Me
 
-My name is Hugo, and I am a Software Engineering student at **42 Lausanne**.
+I'm Hugo, a software engineer trained at **42 Lausanne**, with an academic background in theoretical physics from **Sorbonne Université** and **EPFL**, where I specialized in condensed matter theory.
 
-I studied physics at Sorbonne Université and EPFL, specializing in condensed matter theory.  
-Curious to understand computers as deeply as I understood physics, I joined 42 Lausanne to explore software engineering from first principles.
+Driven by the same curiosity that led me to study physics, I turned to software engineering to understand how computers work from the ground up and to build things of my own.
 
 My interests include:
 
@@ -12,10 +11,11 @@ My interests include:
 - 🌐 Web development
 - 🏗️ DevOps & automation
 
-I am currently gaining industry experience through a robotics software internship, where I work on embedded systems and build user interfaces with Qt.
-In my free time, I am learning Rust and honing my full-stack web development skills.
+I'm currently working as a **Robotics Software Engineering Intern at Hydromea**, developing embedded software in C/C++, building control and monitoring interfaces with Python/Qt, and contributing to software release and deployment automation.
 
-This blend of physics rigor and hands-on engineering shapes how I think, learn, and create.
+In my free time, I'm learning Rust and sharpening my full-stack web development skills.
+
+My background in physics has shaped the way I approach engineering: with curiosity, analytical rigor, and a drive to understand how things work.
 
 Feel free to explore my repositories and follow my progress!
 
@@ -31,6 +31,7 @@ Feel free to explore my repositories and follow my progress!
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🔹 **Web Development**
@@ -45,6 +46,8 @@ Feel free to explore my repositories and follow my progress!
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### 🔹 **Systems & DevOps**
@@ -70,6 +73,7 @@ Feel free to explore my repositories and follow my progress!
   <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Textual-111827?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
